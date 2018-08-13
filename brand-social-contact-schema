@@ -1,0 +1,33 @@
+    <script type="application/ld+json">
+      {
+        "@context":"https://schema.org",
+        "@type":"Store",
+        "brand":"Cupetit卡柏蒂法式手工喜餅",
+        "url":"https://www.cupetitwedding.com/",
+        "sameAs": [
+          "https://www.facebook.com/CupetitWedding/",
+          "https://www.instagram.com/cupetit/"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "No.2 Lane 23 Rui’an Street",
+          "addressLocality": "Da’an District",
+          "addressRegion": "Taipei City",
+          "postalCode": "106",
+          "addressCountry": "Taiwan"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 25.031007,
+          "longitude": 121.541867
+        },
+        "contactPoint": [
+        {
+            "@type": "ContactPoint",
+            "telephone": "+886227096667",
+            "contactType": "customer service",
+            "areaServed": "TW"
+          }
+        ]
+      }
+    </script>
