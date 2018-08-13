@@ -1,9 +1,15 @@
-    <script type="application/ld+json">
+<script type="application/ld+json">
       {
         "@context":"https://schema.org",
         "@type":"Store",
         "brand":"Cupetit卡柏蒂法式手工喜餅",
+        "name":"Cupetit卡柏蒂法式手工喜餅",
         "url":"https://www.cupetitwedding.com/",
+        "image":[
+            "https://www.cupetitwedding.com/wp-content/uploads/2018/06/2018062915134773425.jpg",
+            "https://www.cupetitwedding.com/wp-content/uploads/2018/06/20180629151428671933.jpg"
+        ],
+        "priceRange":"$650-$1200",
         "sameAs": [
           "https://www.facebook.com/CupetitWedding/",
           "https://www.instagram.com/cupetit/"
@@ -21,6 +27,7 @@
           "latitude": 25.031007,
           "longitude": 121.541867
         },
+        "telephone":"+886227096667",
         "contactPoint": [
         {
             "@type": "ContactPoint",
